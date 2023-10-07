@@ -1,0 +1,15 @@
+/Users/ryanlange/Desktop/Work/Tanduo/Tech Ignite/TestApplication/bin/Debug/net7.0/TestApplication
+/Users/ryanlange/Desktop/Work/Tanduo/Tech Ignite/TestApplication/bin/Debug/net7.0/TestApplication.deps.json
+/Users/ryanlange/Desktop/Work/Tanduo/Tech Ignite/TestApplication/bin/Debug/net7.0/TestApplication.runtimeconfig.json
+/Users/ryanlange/Desktop/Work/Tanduo/Tech Ignite/TestApplication/bin/Debug/net7.0/TestApplication.dll
+/Users/ryanlange/Desktop/Work/Tanduo/Tech Ignite/TestApplication/bin/Debug/net7.0/TestApplication.pdb
+/Users/ryanlange/Desktop/Work/Tanduo/Tech Ignite/TestApplication/obj/Debug/net7.0/TestApplication.csproj.AssemblyReference.cache
+/Users/ryanlange/Desktop/Work/Tanduo/Tech Ignite/TestApplication/obj/Debug/net7.0/TestApplication.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ryanlange/Desktop/Work/Tanduo/Tech Ignite/TestApplication/obj/Debug/net7.0/TestApplication.AssemblyInfoInputs.cache
+/Users/ryanlange/Desktop/Work/Tanduo/Tech Ignite/TestApplication/obj/Debug/net7.0/TestApplication.AssemblyInfo.cs
+/Users/ryanlange/Desktop/Work/Tanduo/Tech Ignite/TestApplication/obj/Debug/net7.0/TestApplication.csproj.CoreCompileInputs.cache
+/Users/ryanlange/Desktop/Work/Tanduo/Tech Ignite/TestApplication/obj/Debug/net7.0/TestApplication.dll
+/Users/ryanlange/Desktop/Work/Tanduo/Tech Ignite/TestApplication/obj/Debug/net7.0/refint/TestApplication.dll
+/Users/ryanlange/Desktop/Work/Tanduo/Tech Ignite/TestApplication/obj/Debug/net7.0/TestApplication.pdb
+/Users/ryanlange/Desktop/Work/Tanduo/Tech Ignite/TestApplication/obj/Debug/net7.0/TestApplication.genruntimeconfig.cache
+/Users/ryanlange/Desktop/Work/Tanduo/Tech Ignite/TestApplication/obj/Debug/net7.0/ref/TestApplication.dll
