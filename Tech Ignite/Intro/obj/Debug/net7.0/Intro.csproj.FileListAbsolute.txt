@@ -1,0 +1,15 @@
+/Users/ryanlange/Desktop/Work/Tanduo/Tech Ignite/Intro/bin/Debug/net7.0/Intro
+/Users/ryanlange/Desktop/Work/Tanduo/Tech Ignite/Intro/bin/Debug/net7.0/Intro.deps.json
+/Users/ryanlange/Desktop/Work/Tanduo/Tech Ignite/Intro/bin/Debug/net7.0/Intro.runtimeconfig.json
+/Users/ryanlange/Desktop/Work/Tanduo/Tech Ignite/Intro/bin/Debug/net7.0/Intro.dll
+/Users/ryanlange/Desktop/Work/Tanduo/Tech Ignite/Intro/bin/Debug/net7.0/Intro.pdb
+/Users/ryanlange/Desktop/Work/Tanduo/Tech Ignite/Intro/obj/Debug/net7.0/Intro.csproj.AssemblyReference.cache
+/Users/ryanlange/Desktop/Work/Tanduo/Tech Ignite/Intro/obj/Debug/net7.0/Intro.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ryanlange/Desktop/Work/Tanduo/Tech Ignite/Intro/obj/Debug/net7.0/Intro.AssemblyInfoInputs.cache
+/Users/ryanlange/Desktop/Work/Tanduo/Tech Ignite/Intro/obj/Debug/net7.0/Intro.AssemblyInfo.cs
+/Users/ryanlange/Desktop/Work/Tanduo/Tech Ignite/Intro/obj/Debug/net7.0/Intro.csproj.CoreCompileInputs.cache
+/Users/ryanlange/Desktop/Work/Tanduo/Tech Ignite/Intro/obj/Debug/net7.0/Intro.dll
+/Users/ryanlange/Desktop/Work/Tanduo/Tech Ignite/Intro/obj/Debug/net7.0/refint/Intro.dll
+/Users/ryanlange/Desktop/Work/Tanduo/Tech Ignite/Intro/obj/Debug/net7.0/Intro.pdb
+/Users/ryanlange/Desktop/Work/Tanduo/Tech Ignite/Intro/obj/Debug/net7.0/Intro.genruntimeconfig.cache
+/Users/ryanlange/Desktop/Work/Tanduo/Tech Ignite/Intro/obj/Debug/net7.0/ref/Intro.dll

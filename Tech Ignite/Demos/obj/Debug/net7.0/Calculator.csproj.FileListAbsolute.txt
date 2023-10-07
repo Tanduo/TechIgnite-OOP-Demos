@@ -1,0 +1,15 @@
+/Users/ryanlange/Desktop/Work/Tanduo/Tech Ignite/Demos/bin/Debug/net7.0/Calculator
+/Users/ryanlange/Desktop/Work/Tanduo/Tech Ignite/Demos/bin/Debug/net7.0/Calculator.deps.json
+/Users/ryanlange/Desktop/Work/Tanduo/Tech Ignite/Demos/bin/Debug/net7.0/Calculator.runtimeconfig.json
+/Users/ryanlange/Desktop/Work/Tanduo/Tech Ignite/Demos/bin/Debug/net7.0/Calculator.dll
+/Users/ryanlange/Desktop/Work/Tanduo/Tech Ignite/Demos/bin/Debug/net7.0/Calculator.pdb
+/Users/ryanlange/Desktop/Work/Tanduo/Tech Ignite/Demos/obj/Debug/net7.0/Calculator.csproj.AssemblyReference.cache
+/Users/ryanlange/Desktop/Work/Tanduo/Tech Ignite/Demos/obj/Debug/net7.0/Calculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ryanlange/Desktop/Work/Tanduo/Tech Ignite/Demos/obj/Debug/net7.0/Calculator.AssemblyInfoInputs.cache
+/Users/ryanlange/Desktop/Work/Tanduo/Tech Ignite/Demos/obj/Debug/net7.0/Calculator.AssemblyInfo.cs
+/Users/ryanlange/Desktop/Work/Tanduo/Tech Ignite/Demos/obj/Debug/net7.0/Calculator.csproj.CoreCompileInputs.cache
+/Users/ryanlange/Desktop/Work/Tanduo/Tech Ignite/Demos/obj/Debug/net7.0/Calculator.dll
+/Users/ryanlange/Desktop/Work/Tanduo/Tech Ignite/Demos/obj/Debug/net7.0/refint/Calculator.dll
+/Users/ryanlange/Desktop/Work/Tanduo/Tech Ignite/Demos/obj/Debug/net7.0/Calculator.pdb
+/Users/ryanlange/Desktop/Work/Tanduo/Tech Ignite/Demos/obj/Debug/net7.0/Calculator.genruntimeconfig.cache
+/Users/ryanlange/Desktop/Work/Tanduo/Tech Ignite/Demos/obj/Debug/net7.0/ref/Calculator.dll
